@@ -7,3 +7,10 @@ Material Design shopping application design for mobile devices. Please resize th
 View more developer details here: https://armaizadenwala.com/projects/plutus/dev
 
 Learn more about Plutus here: https://armaizadenwala.com/projects/plutus/
+
+
+## Author
+
+Armaiz Adenwala
+
+[Software Engineer Portfolio](https://armaizadenwala.com/)
